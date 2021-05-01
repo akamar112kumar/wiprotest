@@ -1,0 +1,25 @@
+.regisform section div{
+    display: flex;
+}
+.regisform section div button{
+    width: 100%;
+}
+
+
+.card-body form .form-row {
+    display: flex;
+}
+.form-row .form-group {
+    width: 50%;
+}
+
+.form-row .form-group {
+    width: 100%;
+}
+.form-row .form-group input {
+    padding: 10px;
+    width: 96%;
+}
+.form-row {
+    margin-bottom: 15px;
+}

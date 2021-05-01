@@ -1,0 +1,36 @@
+.regisform section div{
+    display: flex;
+}
+.regisform section div button{
+    width: 100%;
+}
+.card-body form .form-row {
+    display: flex;
+}
+.form-row .form-group {
+    width: 50%;
+}
+select.form-control.ng-untouched.ng-pristine.ng-invalid {
+    width: 100%;
+}
+.form-row .form-group {
+    width: 100%;
+}
+.form-row .form-group input {
+    padding: 10px;
+    width: 96%;
+}
+.form-row {
+    margin-bottom: 15px;
+}
+select.form-control.ng-pristine.ng-invalid.ng-touched {
+    width: 100%;
+    padding: 10px !important;
+}
+select.form-control.ng-touched.ng-dirty.ng-valid {
+    width: 100%;
+    padding: 10px !important;
+}
+button.mat-focus-indicator.btn.btn-primary.mr-1.mat-flat-button.mat-button-base.mat-primary {
+    margin-right: 10px;
+}

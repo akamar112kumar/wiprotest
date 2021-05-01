@@ -1,0 +1,6 @@
+.regisform section div{
+    display: flex;
+}
+.regisform section div button{
+    width: 100%;
+}
